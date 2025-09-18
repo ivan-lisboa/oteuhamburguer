@@ -37,7 +37,7 @@ body {
 
 
 .hero {
-    background: url(/img/capa.png)no-repeat center center/cover;
+    background: url(img/capa.png) no-repeat center center/cover;
     height: 100vh;
     display: flex;
     align-items: center;
@@ -173,4 +173,5 @@ body {
     color: var(--secondary-color);
 
 }
+
 
